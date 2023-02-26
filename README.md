@@ -1,4 +1,12 @@
 ## React Admin Dashboard
+## DARK MODE
+
+![image](https://user-images.githubusercontent.com/64930024/221420788-aa1b53ff-4b52-4313-aac0-981af8f1a380.png)
+
+## LIGHT MODE
+
+![image](https://user-images.githubusercontent.com/64930024/221420831-ff0e31eb-218e-4d67-bf58-9d7810227722.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
